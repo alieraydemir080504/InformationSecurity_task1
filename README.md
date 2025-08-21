@@ -28,5 +28,18 @@
 
 ### Infosec scene (Stacc Attack)
 
-- Jack spent a lot of money on a expensive Canon camera and took a lot of photos with it
-- 
+- The story starts from the perspective of a person called Jack Rhysider who speaks with someone else called Jarett
+- Jarett is someone who stole millions of dollars worth of cryptocurrency which is why this episode is called Stacc Attack
+- Jack and Jarett talk about cryptocurrencies in general and if they're worth investing into, for example Ethereum or Bitcoin and about the collapse of several markets
+- Jarett talks about his mothers death and how he struggled in his life 
+- He later then talks about a scheduling software called Clockwork and how he used it to benefit himself
+- They talk about Pump.fun which is like a online casino to trade Meme Coins and how addictive it was
+- Later in his life, Jarett got hired by Pump.fun and moved to the UK, he was very thrilled
+- We also discover that Jarett is on antipsychosis medication because of ADHD, we also hear from him that Pump.fun makes hundreds of millions of dollars per month
+- Jarett finds it ridicoulous how Meme Coins can be that popular
+- Jarett claims that there are videos of underage girls on certain telegram sites but Jack doesn't ask any further questions, these sites are comparable to 4chan according to Jarett
+- The team which works for Pump.fun claims that they have never encountered such issues like Jarett mentioned before, Jack talks about the nasty things he has found out
+- Jarett accepts that his actions have consequenses and confronts his past mistakes which is also to blame for the amount of suffering he had to endure
+- The more Jack talks with Jarett the more he understands why he is in such a dark place
+- Jarett was surprised himself wehn he noticed that his approach worked, it multiplied over time, he says he was able to see what people were doing on the system
+- In the end, he pled guilty on the internet, he got caught at 2-3 am in the morning and has to serve a minumum of 7 years in prison
