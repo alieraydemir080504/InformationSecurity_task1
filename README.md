@@ -43,3 +43,47 @@
 - The more Jack talks with Jarett the more he understands why he is in such a dark place
 - Jarett was surprised himself wehn he noticed that his approach worked, it multiplied over time, he says he was able to see what people were doing on the system
 - In the end, he pled guilty on the internet, he got caught at 2-3 am in the morning and has to serve a minumum of 7 years in prison
+ 
+
+## a) Security Hygiene
+
+- When leaving your device unattended, always make sure to lock it
+- Always try to use strong passwords and multi-factor authentication
+- Unknown/Suspicious pop-ups, links or webpages should be avoided
+- When using puplic Wifi-networks, make sure to use VPN for privacy and anonymity
+- Use firewall protection
+- Please backup your files and keep your security software up to date
+- Do read the privacy policy
+- Invest in training and education to protect yourself
+- Think twice when sharing personal information
+
+
+  ## b) Make-belief boogie-man
+
+  ### What are we working on?
+
+  #### Company idea
+
+  MediaKing is a company which sells several different technical components from PC parts to video games themselves. They have an online shop where the customer can order whatever they which, but they have to be registered first. When the customer orders an item, this order is being processed in the backend of the system. As the order has been completely validated in the system, it is ready for shipment.
+
+  #### Priorization
+
+  - Security of the customer data (name, adress, etc.)
+  - Products and service data (Webshop)
+  - Database for orders and items in general
+  - A good system to manage orders and shipments
+  - Different payment methods (ApplePay, Paypal, ...)
+  - The customers trust into the company
+ 
+  #### Customer related matters (crown jewels and interactions)
+
+  - Customer interacts with the webshop and searches for different items
+  - Reaching support and interacting with the payment page is no issue
+  - After an order, the customer is being informed that the order was successful and is being shipped, notification via webpage itself or email
+  - Employees provide customer with the maximum amount of security for their personal data and payment
+  - They make sure that the order itself cannot the manipulated in any way
+
+  #### Tech company sketch
+
+
+
