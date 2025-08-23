@@ -155,6 +155,8 @@ https://networkthreatdetection.com/impact-of-threats-on-cia-triad/
 
 https://www.youtube.com/playlist?list=PLCVhBqLDKoOOZqKt74QI4pbDUnXSQo0nf
 
+https://www.youtube.com/playlist?list=PLCVhBqLDKoOOZqKt74QI4pbDUnXSQo0nf
+
 https://darknetdiaries.com/transcript/152/
 
 https://terokarvinen.com/information-security/#h1-should-tero-wear-a-helmet
