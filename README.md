@@ -86,4 +86,7 @@
   #### Tech company sketch
 
 
+<img width="1561" height="621" alt="ThreatModel drawio" src="https://github.com/user-attachments/assets/692eed6f-9754-4df0-b954-837fcc959b71" />
+
+
 
