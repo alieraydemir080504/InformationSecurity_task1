@@ -88,5 +88,28 @@
 
 <img width="1561" height="621" alt="ThreatModel drawio" src="https://github.com/user-attachments/assets/692eed6f-9754-4df0-b954-837fcc959b71" />
 
+### What can go wrong?
 
+#### CIA
 
+##### Confidentiality
+
+- Phishing scams can happen to customers/employees
+- Personal information can be sent to the false people
+- Relationship between customers and employees can be severely damaged over time
+- Company projects can be leaked
+
+##### Integrity
+
+- General human errors like typos, deletions, misconfigurations, etc. may occur
+- Installations of Malware could be utilized by hackers to damage webpage credentials
+- Software bugs can lead to calculation errors which could produce payment imbalance
+- Webpage may enounter synchronization errors which can lead to customer dissatisfaction
+- Product data or customer orders can be manipulated 
+  
+##### Availiability
+
+- Webshop could become way too slow or even unusable for the customer
+- Product transactions could fail
+- Inevitable environmental factors such as floods, storms, etc. can hamper the companys revenue
+- Company files and systems could be attacked by ransomware, demanding payment from the company
