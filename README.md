@@ -105,7 +105,7 @@
 - Installations of Malware could be utilized by hackers to damage webpage credentials
 - Software bugs can lead to calculation errors which could produce payment imbalance
 - Webpage may enounter synchronization errors which can lead to customer dissatisfaction
-- Product data or customer orders can be manipulated 
+- Product data or customer orders can be manipulated
   
 ##### Availiability
 
@@ -113,3 +113,30 @@
 - Product transactions could fail
 - Inevitable environmental factors such as floods, storms, etc. can hamper the companys revenue
 - Company files and systems could be attacked by ransomware, demanding payment from the company
+
+#### Biggest risks
+
+- Manipulation of product data and orders
+- Inability for customer to use the website
+- Leaking of customer data
+- Phishing of employee accounts, account takeover of employees
+- Ransomware for blackmailing company employees
+
+  #### Are you targetted by specific threat actors? Are there actors that target your geographical or political area or industry?
+
+  MediaKing is not a big company with a lot of revenue. So there is no specific threat actor who would like to harm them because there is little to no gain.
+
+  ### What are we going to do about it?
+
+  - Limit and encrypt the data depending on who may be authorized to use them
+  - Multi-factor authentication severely mitigates the risk of data being stolen from customers/employees
+  - Regular training sessions in the company regarding cyber security has it's benefits
+  - Version controls and audits are necessary for the company to eliminate the risk of something going wrong
+  - It is important for employees to transfer their knowledge from one to another
+  - Redundance must be maintained in the company to keep operations intact
+  - Human errors may not be inevitable, but can at least be migitated by regular check-ups
+  - Asking, reviewing and bein proactive is necessary to spread awareness about risks amongst employees
+ 
+    ### Did we do a good enough job?
+
+    Through enough time and training it is possible to reach an almost unbreakable level of security in our systems. It is of absolute necessity to invest in the "Defence againist Dark Arts" of the IT world. Without a proper defence, our important assets will be infiltrated and stolen which is why it is so important to eductate our employees, all of them. 
