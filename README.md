@@ -122,11 +122,11 @@
 - Phishing of employee accounts, account takeover of employees
 - Ransomware for blackmailing company employees
 
-  #### Are you targetted by specific threat actors? Are there actors that target your geographical or political area or industry?
+#### Are you targetted by specific threat actors? Are there actors that target your geographical or political area or industry?
 
   MediaKing is not a big company with a lot of revenue. So there is no specific threat actor who would like to harm them because there is little to no gain.
 
-  ### What are we going to do about it?
+### What are we going to do about it?
 
   - Limit and encrypt the data depending on who may be authorized to use them
   - Multi-factor authentication severely mitigates the risk of data being stolen from customers/employees
@@ -137,6 +137,24 @@
   - Human errors may not be inevitable, but can at least be migitated by regular check-ups
   - Asking, reviewing and bein proactive is necessary to spread awareness about risks amongst employees
  
-    ### Did we do a good enough job?
+### Did we do a good enough job?
 
-    Through enough time and training it is possible to reach an almost unbreakable level of security in our systems. It is of absolute necessity to invest in the "Defence againist Dark Arts" of the IT world. Without a proper defence, our important assets will be infiltrated and stolen which is why it is so important to eductate our employees, all of them. 
+Through enough time and training it is possible to reach an almost unbreakable level of security in our systems. It is of absolute necessity to invest in the "Defence againist Dark Arts" of the IT world. Without a proper defence, our important assets will be infiltrated and stolen which is why it is so important to eductate our employees, all of them. 
+
+## Sources
+
+https://us.norton.com/blog/how-to/cybersecurity-basics
+
+https://www.threatmodelingmanifesto.org/
+
+https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html#methods-and-techniques
+
+https://owasp.org/www-community/Threat_Modeling_Process
+
+https://networkthreatdetection.com/impact-of-threats-on-cia-triad/
+
+https://www.youtube.com/playlist?list=PLCVhBqLDKoOOZqKt74QI4pbDUnXSQo0nf
+
+https://darknetdiaries.com/transcript/152/
+
+https://terokarvinen.com/information-security/#h1-should-tero-wear-a-helmet
